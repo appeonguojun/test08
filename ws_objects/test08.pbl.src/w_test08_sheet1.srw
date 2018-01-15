@@ -46,8 +46,8 @@ call uo_1::destroy
 end on
 
 type st_1 from statictext within w_test08_sheet1
-integer x = 411
-integer y = 272
+integer x = 402
+integer y = 192
 integer width = 1147
 integer height = 76
 integer textsize = -12
