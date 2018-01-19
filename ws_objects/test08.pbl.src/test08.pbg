@@ -8,6 +8,7 @@
  "m_test08_sheet.srm" "test08.pbl";
  "n_test08_connectservice.sru" "test08.pbl";
  "n_test08_sheetmanager.sru" "test08.pbl";
+ "uo_1.sru" "test08.pbl";
  "w_test08_about.srw" "test08.pbl";
  "w_test08_basesheet.srw" "test08.pbl";
  "w_test08_frame.srw" "test08.pbl";
