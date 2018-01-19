@@ -28,11 +28,11 @@ destroy(this.st_1)
 end on
 
 type st_1 from statictext within w_test08_sheet2
-integer x = 123
-integer y = 68
-integer width = 457
-integer height = 76
-integer textsize = -12
+integer x = 297
+integer y = 124
+integer width = 402
+integer height = 64
+integer textsize = -10
 integer weight = 400
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
@@ -40,7 +40,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "none"
+string text = "none321"
 boolean focusrectangle = false
 end type
 
