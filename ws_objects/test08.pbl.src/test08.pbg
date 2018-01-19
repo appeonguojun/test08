@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "test08.pbl" "";
+@end;
+@begin Objects 
+ "test08.sra" "test08.pbl";
+ "m_test08_frame.srm" "test08.pbl";
+ "m_test08_sheet.srm" "test08.pbl";
+ "n_test08_connectservice.sru" "test08.pbl";
+ "n_test08_sheetmanager.sru" "test08.pbl";
+ "w_test08_about.srw" "test08.pbl";
+ "w_test08_basesheet.srw" "test08.pbl";
+ "w_test08_frame.srw" "test08.pbl";
+ "w_test08_sheet1.srw" "test08.pbl";
+ "w_test08_sheet2.srw" "test08.pbl";
+ "w_test08_sheet3.srw" "test08.pbl";
+ "w_test08_toolbars.srw" "test08.pbl";
+@end;
