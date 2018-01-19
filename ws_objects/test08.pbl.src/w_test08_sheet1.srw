@@ -48,7 +48,7 @@ end on
 type st_1 from statictext within w_test08_sheet1
 integer x = 411
 integer y = 272
-integer width = 457
+integer width = 1147
 integer height = 76
 integer textsize = -12
 integer weight = 400
@@ -58,7 +58,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "none32"
+string text = "none321"
 boolean focusrectangle = false
 end type
 
