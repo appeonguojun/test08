@@ -65,7 +65,7 @@ lnv_connectserv = Create using "n_test08_connectservice"
 
 lnv_connectserv.of_DisconnectDB ( )
 
-Destroy lnv_connectserv
+Destroy lnv_connectserv 
 //
 end event
 
