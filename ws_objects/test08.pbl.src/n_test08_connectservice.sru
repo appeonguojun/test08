@@ -27,6 +27,8 @@ public function integer of_getconnectioninfo (ref string as_dbms, ref string as_
 //*  The source of connection information can be changed by
 //*  altering the value of the 'is_connectfrom' variable.
 //*--------------------------------------------------------*/
+
+debugbreak()
 Choose Case is_connectfrom
 		
 	Case IS_USE_INIFILE						/*  Populate Database Connection from INI file  */
