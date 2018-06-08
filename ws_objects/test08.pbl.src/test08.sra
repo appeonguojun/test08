@@ -59,7 +59,7 @@ event close;//*-----------------------------------------------------------------
 //*            1) Instantiate a connection object
 //*            2) Disconnect from the database
 //*-----------------------------------------------------------------*/
-n_test08_connectservice lnv_connectserv
+n_test08_connectservice lnv_connectserv 
 
 lnv_connectserv = Create using "n_test08_connectservice"
 
