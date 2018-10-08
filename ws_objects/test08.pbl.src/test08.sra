@@ -40,6 +40,8 @@ event open;//*-----------------------------------------------------------------*
 //*-----------------------------------------------------------------*/
 n_test08_connectservice lnv_connectserv
 
+soapconnection soap
+
 /*  This prevents double toolbar  */
 this.ToolBarFrameTitle = "MDI Application Toolbar"
 this.ToolBarSheetTitle = "MDI Application Toolbar"
