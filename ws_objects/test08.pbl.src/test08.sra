@@ -42,7 +42,7 @@ n_test08_connectservice lnv_connectserv
 
 soapconnection soap
 soap = create soapconnection
-messagebox('',soap.classname( ))
+messagebox('','soap.classname( ) =' + soap.classname( ))
 
 /*  This prevents double toolbar  */
 this.ToolBarFrameTitle = "MDI Application Toolbar"
