@@ -9,6 +9,8 @@ end forward
 
 global type w_test08_sheet2 from w_test08_basesheet
 string tag = "Untitled for Sheet 2"
+integer width = 2226
+integer height = 1464
 st_1 st_1
 end type
 global w_test08_sheet2 w_test08_sheet2

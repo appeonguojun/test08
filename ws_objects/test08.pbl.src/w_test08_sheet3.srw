@@ -6,7 +6,9 @@ end type
 end forward
 
 global type w_test08_sheet3 from w_test08_basesheet
-string Tag="Untitled for Sheet 3"
+string tag = "Untitled for Sheet 3"
+integer width = 2126
+integer height = 1696
 end type
 global w_test08_sheet3 w_test08_sheet3
 
