@@ -32,7 +32,7 @@ debugbreak()
 Choose Case is_connectfrom
 		
 	Case IS_USE_INIFILE						/*  Populate Database Connection from INI file  */
-		string ls_inifile = "D:\Appeon_Work\test08\test08.ini"
+		string ls_inifile = "D:\Appeon_Work\TestCase\Git_TestCase\test08_git\test08.ini"
 		
 		as_dbms			= ProfileString ( ls_inifile, "Database", "DBMS", "ODBC")
 		as_database		= ProfileString ( ls_inifile, "Database", "Database", "")
